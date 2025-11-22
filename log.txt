@@ -1,3 +1,4 @@
+57c65bd Task 2.1 Completed
 6cad1b0 Task 1.2 Completed
 4b83fdb Task 1.1 Completed
 14370d2 Initial commit
